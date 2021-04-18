@@ -1,1 +1,1 @@
-C:37:"PHPUnit\Runner\DefaultTestResultCache":194:{a:2:{s:7:"defects";a:1:{s:61:"Tests\BingoCallerTest::it_assert_true_if_a_number_is_returned";i:4;}s:5:"times";a:1:{s:61:"Tests\BingoCallerTest::it_assert_true_if_a_number_is_returned";d:0.003;}}}
+C:37:"PHPUnit\Runner\DefaultTestResultCache":271:{a:2:{s:7:"defects";a:1:{s:61:"Tests\BingoCallerTest::it_assert_true_if_a_number_is_returned";i:4;}s:5:"times";a:2:{s:61:"Tests\BingoCallerTest::it_assert_true_if_a_number_is_returned";d:0.003;s:65:"Tests\BingoCardTest::it_assert_true_if_the_card_was_fully_created";d:0;}}}
